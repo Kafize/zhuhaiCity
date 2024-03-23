@@ -1,0 +1,54 @@
+.scenery-container{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 300;
+    
+}
+.scenery-card{
+    
+    display: flex;
+    
+}
+.scenery-child{
+    flex-grow: 1;
+    flex-basis: 0;
+    padding: 0 1rem;
+}
+
+.desc-title{
+    padding:2rem 1rem;
+    font-weight: 300;
+    font-size: 24px;
+}
+.article{
+    padding: 10px 0;
+}
+.article>p{
+    line-height: 2rem;
+    padding: 15px 0;
+}
+.scenery-second{
+    display: flex;
+    font-size: 16px;
+
+}
+.scenery-second h3,p{
+    padding: 5px 0;
+}
+.scenery-second img{
+    width: 100%;
+    height: 165px;
+}
+.scenery-article{
+    line-height: 1.5rem;
+    padding-bottom: 15px;
+}
+.article-desc2{
+    text-align: center;
+    background-color: #B0B59A;
+    padding: 1rem;
+    color: #efefef;
+}
+.article-padding{
+    padding: 1rem;;
+}
